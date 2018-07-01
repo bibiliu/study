@@ -1,0 +1,6 @@
+def hello(person):
+    print("亲爱的{}，你怎么啦？".format(person))
+    print("我没事")
+print("我就是想你")
+hello("庄丽婷")
+
