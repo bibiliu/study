@@ -1,0 +1,5 @@
+# format 格式化字符串
+# 1.非关键字参数
+strl = "我的身高是{},体重是{}"
+res = strl.format('175cm','60kg')
+print(res)
